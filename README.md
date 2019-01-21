@@ -2,12 +2,12 @@
 
 ## Getting started
 
-`$ npm install @textile/react-native-wait-for --save`
+`$ npm install @textile/redux-saga-wait-for --save`
 
 ## Example
 
 ```js
-import { waitFor } from 'react-native-wait-for'
+import { waitFor } from 'redux-saga-wait-for'
 
 function * waitForOnline() {
   const { onlineTimout } = yield race({

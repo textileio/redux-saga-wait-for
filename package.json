@@ -1,5 +1,5 @@
 {
-  "name": "@textile/react-native-wait-for",
+  "name": "@textile/redux-saga-wait-for",
   "version": "1.0.0",
   "description": "Provides a waitFor select redux saga effect",
   "main": "dist/index.js",
