@@ -1,4 +1,4 @@
-# react-native-wait-for
+# redux-saga-wait-for
 
 ## Getting started
 

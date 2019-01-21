@@ -30,10 +30,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/textileio/react-native-wait-for.git"
+    "url": "git+https://github.com/textileio/redux-saga-wait-for.git"
   },
   "bugs": {
-    "url": "https://github.com/textileio/react-native-wait-for/issues"
+    "url": "https://github.com/textileio/redux-saga-wait-for/issues"
   },
-  "homepage": "https://github.com/textileio/react-native-wait-for#readme"
+  "homepage": "https://github.com/textileio/redux-saga-wait-for#readme",
+  "keywords": [
+    "redux",
+    "textile",
+    "saga"
+  ]
 }
